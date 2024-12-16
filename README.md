@@ -54,15 +54,13 @@ print(x)
 ```
 ## Output::
 
-(i) To find the L and U matrix
-![
-](<Screenshot from 2024-12-16 20-30-14-1.png>)
-
-
+(i) To find the L and U matrix:
+![Screenshot (54)](https://github.com/user-attachments/assets/803feedb-0a11-45f4-87e8-9b18388235bd)
 (ii) To find the LU Decomposition of a matrix
-![
-    ``````
-](<Screenshot from 2024-12-16 20-30-19.png>)
+![Screenshot (53)](https://github.com/user-attachments/assets/cd42b2d2-99be-4999-9f56-e60bcb744af1)
+
+
+
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
