@@ -52,13 +52,13 @@ lu, piv=lu_factor(A)
 x = lu_solve((lu, piv), b)
 print(x)
 ```
+## Output::
 
-## Output:
 (i) To find the L and U matrix
 ![
 ](<Screenshot from 2024-12-16 20-30-14-1.png>)
-``````
-``````
+
+
 (ii) To find the LU Decomposition of a matrix
 ![
     ``````
