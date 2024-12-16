@@ -63,6 +63,7 @@ print(x)
 ![
     ``````
 ](<Screenshot from 2024-12-16 20-30-19.png>)
+
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
